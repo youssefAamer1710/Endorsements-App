@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1B1924;
+    color: #FFF;
+    text-align: center;
+    user-select: none;
+}
+
+
+ .main {
+     width: 90%;
+     margin: 25px auto;
+ }
+ 
+ img {
+     width: 100px;
+     margin: 0px auto;
+ }
+ 
+ input {
+     text-align: start;
+     border-radius: 8px;
+     background: #444059;
+     width: 90%;
+     border: none;
+     height: 120px;
+     padding-left: 10px;
+ }
+ 
+ button {
+     border-radius: 8px;
+     background: #28A9F1;
+     width: 90%;
+     padding: 15px;
+     margin: 10px;
+     color: #04131C;
+     text-align: center;
+     font-family: Josefin Sans;
+     font-size: 22px;
+     font-weight: bold;
+     border: none; 
+ }
+ 
+ 
